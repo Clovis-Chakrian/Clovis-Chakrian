@@ -1,25 +1,55 @@
-# <center> :metal: <font color="#0098EE"> Clóvis Chakrian </font> :metal:  </center>
+<h2 align="left">Hey There 👋! My name is Clóvis Chakrian and I'm a FullStack Developer.</h2>
 
-<center>
+###
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/clovis_chakrian/?hl=pt-br) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://br.linkedin.com/in/cl%C3%B3vis-chakrian-517228203)
-</center>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=clovis-chakrian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clovis-chakrian&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## <font color="0098EE"> Sobre mim </font>
-Me chamo Clóvis Chakrian, tenho 17 anos, comecei a estudar programação aos 12 anos quando tive a oportunidade de fazer um curso de programação em blocos na minha escola de ensino fundamental. Naquela época, eu não tinha ideia do quanto me apaixonaria pela área, mas eu já me divertia fazendo as coisas mexerem na tela. Com aquele curso pude desenvolver meu primeiro aplicativo, e foi aí que tive certeza do que eu queria fazer, trabalhar podendo desenvolver softwares que pudessem ajudar outras pessoas. No ano de 2019 comecei a me aprofundar mais na área. Comecei a aprender sobre git, javascript, html5 e css3. Na época não tinha um computador tão potente, então resolvi estudar coisas mais leves. Depois descobri o React Native para desenvolver aplicativos (umas das coisas que sempre gostei mais), mas vi que algumas das minhas ideias só poderiam sair do papel se eu soubesse também a fazer Api's. Aprendi então sobre NodeJS e estudei sobre React. Amo tecnologia e tudo que ela me proporciona, é sobre o que mais amo estudar :heart:.
+###
 
-## <font color="0098EE"> Stack </font>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+<img align="right" height="150" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
 
-## <font color="0098EE"> Hobbies </font>
+###
 
-- Ler :book: 
-- Jogar :joystick:
-- Assistir :tv:
-- Programar :computer:
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+</div>
 
-## <font color="0098EE"> Frase favorita </font>
+###
 
-> "Eu sou um universo de átomos, e ainda assim, um átomo no universo"
->
-> Richard Feynman
+<div align="left">
+  <a href="mailto:clovischakriandev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/clovis-chakrian/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/clovis-chakrian/clovis-chakrian/output/snake.svg" alt="Snake animation" />
+
+###
